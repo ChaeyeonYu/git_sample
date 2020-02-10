@@ -4,5 +4,6 @@ public class Hello2 {
 		System.out.println("Hello2");
 		System.out.println("Hello2(hotfix)");
 		System.out.println("Hi2(master)");
+		System.out.println("Hi2(hotfix)");
 	}
 }
